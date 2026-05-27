@@ -11,7 +11,7 @@
   <a href="mailto:samuelqueirosmano@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://samuelqueiros.br">
+  <a href="https://api.samuelqueirosmano.workers.dev/">
     <img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -22,16 +22,20 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor fullstack especializado em **soluções sob medida** que conectam sistemas, automatizam processos e entregam inteligência operacional. Cofundador da **ATENUX**, plataforma omnichannel para clínicas de saúde com integração de IA, WhatsApp Business e gestão de atendimento em tempo real.
+Desenvolvedor **fullstack** focado em **automação, IA e sistemas que resolvem problemas reais**. Construo desde APIs REST e dashboards interativos até automações ponta a ponta com n8n e agentes de IA.
 
-Construo desde APIs REST e dashboards interativos até automações complexas com n8n e agentes de IA. Vivência em ambientes corporativos (IRTDPJ/ONRTDPJ) e projetos freelance para empresas de múltiplos setores.
+**Cofundador da [ATENUX](https://atenux.com/)** — plataforma omnichannel de atendimento unificado para clínicas e cartórios com WhatsApp, Instagram, IA e gestão em tempo real.
+
+**Colaborador do [AkaPDF](https://akapdf.com.br/)** — SaaS de manipulação profissional de PDFs com conversão de DPI, melhoria de qualidade para impressão e processamento online.
+
+Transformo processos manuais em soluções escaláveis. Disponível para **projetos freelancer**, **parcerias em IA** e **desenvolvimento fullstack**.
 
 ```typescript
 const samuel = {
   código: ["Python", "JavaScript", "TypeScript", "Node.js", "SQL"],
-  ferramentas: ["React", "Docker", "n8n", "Redis", "Git"],
-  foco: ["APIs REST", "Automação", "IA", "Integrações", "Fullstack"],
-  atualmente: "Desenvolvendo plataforma omnichannel com IA na ATENUX"
+  tech: ["React", "Docker", "n8n", "Redis", "OpenAI", "PostgreSQL"],
+  especialidades: ["Fullstack", "Automação", "Agentes IA", "APIs REST", "SaaS"],
+  focusAtual: ["ATENUX", "AkaPDF", "Freelance"]
 };
 ```
 
@@ -63,27 +67,25 @@ const samuel = {
 
 ---
 
-## 💼 Experiência Destacada
+## 🛠️ Projetos em Destaque
 
-### **🏢 ATENUX** — *Cofundador & Desenvolvedor* `Out/2025 - Atual`
-Plataforma omnichannel para clínicas de saúde com IA integrada.
-- Arquitetura de fluxos URA via WhatsApp (WAHA API) com botões interativos no n8n
-- Integração Redis + n8n para gestão de sessões de atendimento em tempo real
-- Desenvolvimento de agentes de IA para otimização operacional
-- Onboarding, configuração de contas demo e suporte técnico N1/N2
+### **[ATENUX](https://atenux.com/)** — Plataforma Omnichannel `Cofundador`
+Unifica WhatsApp, Instagram, email e chat em um único painel para clínicas e cartórios.
+- **Tech:** Node.js · Python · React · n8n · Redis · Docker · PostgreSQL · WAHA · Chatwoot · OpenAI
+- URA inteligente no WhatsApp com agentes de IA para triagem
+- Gestão de sessões em tempo real com Redis
+- Automações ponta a ponta com n8n
 
-### **💻 Freelancer** — *Desenvolvedor Fullstack* `Mai/2024 - Set/2025`
-Sistemas web sob medida para empresas com foco em automação e produtividade.
-- Sistema de gestão de férias (solicitações, aprovações, calendário)
-- Sistema de controle de qualidade (ocorrências, indicadores, não-conformidades)
-- Dashboards interativos para visualização de dados e tomada de decisão
-- Sites responsivos com React e conteinerização via Docker
+### **[AkaPDF](https://akapdf.com.br/)** — SaaS de PDFs `Colaborador`
+Manipulação profissional de PDFs: conversão de DPI, melhoria de qualidade e processamento online.
+- **Tech:** JavaScript · Python · Processamento de Imagem · Otimização
+- 5,9k impressões orgânicas em ~3 meses
+- Referenciado pelo Gemini como solução de melhoria de DPI
 
-### **🏛️ IRTDPJ / ONRTDPJ** — *Estagiário TI & Aux. Administrativo* `Mar/2023 - Atual`
-Suporte técnico, automações e análise de dados para operações corporativas.
-- Suporte N1/N2 a usuários e cartórios (certificados digitais, erros de sistema)
-- Manipulação e análise de dados via Qlik para decisões estratégicas
-- Mapeamento de processos e identificação de melhorias operacionais
+### **Outros Projetos**
+- **GenesysCorp** — Site institucional (Blockchain, IA, Robótica)
+- **Gestão de Férias** — Sistema interno de solicitações e calendário
+- **Múltiplos sites institucionais** — Desenvolvimento freelancer
 
 ---
 
@@ -110,7 +112,9 @@ Suporte técnico, automações e análise de dados para operações corporativas
 
 Sempre aberto a **projetos interessantes**, **colaborações** e **oportunidades de trabalho**.
 
+**🌐 Portfolio:** [api.samuelqueirosmano.workers.dev](https://api.samuelqueirosmano.workers.dev/)  
 **📧 Email:** [samuelqueirosmano@gmail.com](mailto:samuelqueirosmano@gmail.com)  
+**📱 WhatsApp:** [(61) 98115-0496](https://wa.me/5561981150496)  
 **💼 LinkedIn:** [samuel-q-b676b5214](https://www.linkedin.com/in/samuel-q-b676b5214/)  
 **📍 Localização:** Brasília, DF — Brasil
 
